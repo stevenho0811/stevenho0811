@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MacBook Pro 14 M1 Pro 使用心得](https://stevenho.pro/posts/macbook-pro-14-m1-pro-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
