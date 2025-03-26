@@ -15,9 +15,6 @@
  <img src="https://komarev.com/ghpvc/?username=stevenho0811&label=Profile%20views&color=0e75b6&style=flat" alt="Steven Ho" /> 
 </p>
 <p align="center">
- <a href="https://stevenho.pro" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Steven Ho" />
- </a>
  <a href="https://www.linkedin.com/in/stevenho0811" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Steven Ho"/>
  </a>
@@ -40,7 +37,7 @@
 
 - 💬 Ask me about **React, Vue, Nuxt, Anything**
 
-- 📫 How to reach me **hi@stevenho.pro**
+- 📫 How to reach me **jyunyihe@gmail.com**
 
 - ⚡ Fun fact **💩**
 <hr/>
