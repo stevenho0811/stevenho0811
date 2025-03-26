@@ -33,8 +33,6 @@
 
 - 🌱 I’m currently learning **Rust, Swift, Go, Backend**
 
-- 📝 I regularly write articles on [https://stevenho.pro/blog](https://stevenho.pro/blog)
-
 - 💬 Ask me about **React, Vue, Nuxt, Anything**
 
 - 📫 How to reach me **jyunyihe@gmail.com**
